@@ -1,5 +1,6 @@
 #pragma once
 #include"Protocols.h"
+#include<iostream>
 
 
 struct FilterAttributes
